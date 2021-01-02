@@ -1,0 +1,4 @@
+,distance_rho,distance_theta,distance_phi,yaw_diff,Image_name,Full_path
+0,1.0739133895902162,-1.110167739372019,1.388321949582951,-0.2647588586591785,frame_center_00387.jpg,C:/Users/Feng Yang Chen/Documents/POLYTECHNIQUE/E2020 - Stage CRSNG - David Saussié/simulation_training_data/Training\Run_0087\images\Gate 6\Sans Cible\frame_center_00387.jpg
+1,1.0002289332696952,-1.2542770849179257,1.3763729887429716,-0.2559515969223003,frame_center_00388.jpg,C:/Users/Feng Yang Chen/Documents/POLYTECHNIQUE/E2020 - Stage CRSNG - David Saussié/simulation_training_data/Training\Run_0087\images\Gate 6\Sans Cible\frame_center_00388.jpg
+2,0.9419547210873982,-1.4741025405818815,1.3665087281833017,-0.24468140532629246,frame_center_00389.jpg,C:/Users/Feng Yang Chen/Documents/POLYTECHNIQUE/E2020 - Stage CRSNG - David Saussié/simulation_training_data/Training\Run_0087\images\Gate 6\Sans Cible\frame_center_00389.jpg
